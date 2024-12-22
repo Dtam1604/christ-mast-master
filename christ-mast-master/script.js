@@ -118,7 +118,18 @@ function createGift() {
     '❄️ Đong đầy yêu thương trong mùa đông này',
     '🎆 Năm mới đến, niềm vui tới',
     '🎁 Đón nhận niềm vui và hạnh phúc',
-  ];
+    '🎉 Chúc mừng năm mới!',
+    '🎇 Hãy để ánh sáng của mùa lễ hội chiếu sáng con đường của bạn',
+    '🎀 Chúc bạn một mùa lễ hội đầy ắp niềm vui và tiếng cười',
+    '🎄 Hòa bình và tình yêu cho bạn và gia đình',
+    '🎁 Món quà lớn nhất là tình yêu và sự quan tâm',
+    '🎅 Ông già Noel đang đến thị trấn!',
+    '❄️ Hãy để tuyết rơi và niềm vui tràn ngập',
+    '🎆 Chúc bạn một năm mới tràn đầy hy vọng và thành công',
+    '🎊 Hãy cùng nhau chào đón năm mới với những điều tốt đẹp nhất',
+    '🌟 Ánh sáng của mùa lễ hội sẽ luôn ở bên bạn',
+    '🎉 Chúc bạn một mùa lễ hội tuyệt vời và một năm mới hạnh phúc',
+];
 
   gift.addEventListener('click', () => {
     const popup = document.createElement('div');
